@@ -3,7 +3,6 @@ source 'https://rubygems.org'
 # Specify your gem's dependencies in codechamp.gemspec
 gemspec
 
-gem "pry"
 gem "httparty"
 
 group :development do
